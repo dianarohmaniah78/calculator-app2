@@ -1,0 +1,17 @@
+c:\users\meo`ca\documents\visual studio 2015\Projects\Praktikum3Taxi\Praktikum3Taxi\bin\Debug\Praktikum3Taxi.exe.config
+c:\users\meo`ca\documents\visual studio 2015\Projects\Praktikum3Taxi\Praktikum3Taxi\obj\Debug\Praktikum3Taxi.csprojResolveAssemblyReference.cache
+c:\users\meo`ca\documents\visual studio 2015\Projects\Praktikum3Taxi\Praktikum3Taxi\bin\Debug\Praktikum3Taxi.exe
+c:\users\meo`ca\documents\visual studio 2015\Projects\Praktikum3Taxi\Praktikum3Taxi\bin\Debug\Praktikum3Taxi.pdb
+c:\users\meo`ca\documents\visual studio 2015\Projects\Praktikum3Taxi\Praktikum3Taxi\obj\Debug\Praktikum3Taxi.exe
+c:\users\meo`ca\documents\visual studio 2015\Projects\Praktikum3Taxi\Praktikum3Taxi\obj\Debug\Praktikum3Taxi.pdb
+D:\ogi\21.11.4455\Praktikum3Taxi\Praktikum3Taxi\bin\Debug\Praktikum3Taxi.exe.config
+D:\ogi\21.11.4455\Praktikum3Taxi\Praktikum3Taxi\obj\Debug\Praktikum3Taxi.exe
+D:\ogi\21.11.4455\Praktikum3Taxi\Praktikum3Taxi\obj\Debug\Praktikum3Taxi.pdb
+G:\ogi\zulfa\calculator-app\Taxi\Praktikum3Taxi\bin\Debug\Praktikum3Taxi.exe.config
+G:\ogi\zulfa\calculator-app\Taxi\Praktikum3Taxi\bin\Debug\Praktikum3Taxi.exe
+G:\ogi\zulfa\calculator-app\Taxi\Praktikum3Taxi\bin\Debug\Praktikum3Taxi.pdb
+G:\ogi\zulfa\calculator-app\Taxi\Praktikum3Taxi\obj\Debug\Praktikum3Taxi.csproj.AssemblyReference.cache
+G:\ogi\zulfa\calculator-app\Taxi\Praktikum3Taxi\obj\Debug\Praktikum3Taxi.csproj.SuggestedBindingRedirects.cache
+G:\ogi\zulfa\calculator-app\Taxi\Praktikum3Taxi\obj\Debug\Praktikum3Taxi.csproj.CoreCompileInputs.cache
+G:\ogi\zulfa\calculator-app\Taxi\Praktikum3Taxi\obj\Debug\Praktikum3Taxi.exe
+G:\ogi\zulfa\calculator-app\Taxi\Praktikum3Taxi\obj\Debug\Praktikum3Taxi.pdb
